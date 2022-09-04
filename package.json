@@ -11,7 +11,8 @@
   "license": "ISC",
   "type": "modules",
   "dependencies": {
+    "dotenv": "^16.0.2",
     "googleapis": "^59.0.0",
-    "pronote-api": "^2.1.3"
+    "pronote-api": "mirsella/pronote-api"
   }
 }
